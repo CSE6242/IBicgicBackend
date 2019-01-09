@@ -1,0 +1,6 @@
+{
+    "dbhost" : "testyuhao.cebyxwdtjyxd.us-east-1.rds.amazonaws.com",
+    "dbname" : "testyuhao",
+    "dbuser" :"testyuhao",
+    "dbpassword" :"testyuhao"
+}
